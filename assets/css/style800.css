@@ -1,0 +1,160 @@
+.drop-menu {
+    display: flex;
+}
+
+.main-menu {
+    display: none;
+}
+header {
+    padding: 0;
+    height: 50px;
+}
+
+header img {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+}
+
+header p {
+    font-size: 20px;
+}
+
+header button {
+    padding: 5px 15px;
+}
+
+.webuild {
+    justify-content: center;
+}
+
+.webuild img {
+    display: none;
+}
+
+.webuild-content h2 {
+    font-size: 25px;
+}
+
+.section-diagonal {
+    display: none;
+}
+
+.ourservices-services-area {
+    flex-wrap: wrap;
+    margin: 0;
+}
+
+.ourservices-service {
+    margin: 15px 0px;
+}
+
+.weare {
+    padding: 20px;
+    justify-content: center;
+}
+
+.weare img {
+    display: none;
+}
+
+.interested {
+    justify-content: center;
+}
+
+.interested-content {
+    padding: 30px;
+}
+
+.interested img {
+    display: none;
+}
+
+.interested-email-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.interested-email-area input {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.latest-area {
+    flex-direction: column;
+    align-items: center;
+}
+
+.latest-item {
+    margin: 15px 30px;
+}
+
+.latest-item img {
+    width: 100%;
+}
+
+.carla-stevens {
+    flex-direction: column;
+    padding: 15px;
+}
+
+.carla-stevens img {
+    width: 50%;
+}
+
+.carla-cite-area {
+    width: 100%;
+    padding: 0px;
+}
+
+.carla-cite-area p,
+.carla-cite-area small {
+    text-align: center;
+}
+
+.business {
+    flex-wrap: wrap;
+    padding: 15px;
+}
+
+.business img {
+    width: 30%;
+    height: auto;
+    padding: 15px; 
+}
+
+footer {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    height: fit-content;
+    padding: 15px;
+}
+
+.footer-email {
+    align-items: center;
+}
+
+.footer-email p {
+    text-align: center;
+}
+
+.footer-input-area {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.footer-input-area input {
+    width: 100%;
+}
+
+.footer-input-area button {
+    margin: 10px;
+}
+
+.footer-list-area {
+    padding: 30px;
+}
